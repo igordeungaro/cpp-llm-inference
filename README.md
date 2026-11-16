@@ -101,3 +101,12 @@ llama serve -hf ggml-org/Qwen3.5-0.8B-GGUF
 - [nlohmann/json](https://github.com/nlohmann/json) - Single-header JSON library, used by various tools/examples - MIT License
 - [mackron/miniaudio](https://github.com/mackron/miniaudio) - Single-header audio format decoder, used by multimodal subsystem - Public domain
 - [sheredom/subprocess.h](https://github.com/sheredom/subprocess.h) - Single-header process launching solution for C and C++ - Public domain
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: MIT License (mantida sem alterações).
+
+**Fonte original:** https://github.com/ggml-org/llama.cpp
